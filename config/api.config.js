@@ -11,7 +11,7 @@ module.exports = {
   // The clientId and clientSecret are used to authenticate the user with Microsoft Graph API using OAuth. You would
   // not need to change anything here if you can authenticate with your personal Microsoft account with OneDrive International.
   clientId: 'dab7bcd0-8746-416d-bb14-63376aa7aa7b',
-  obfuscatedClientSecret: 'U2FsdGVkX19ooxfyXmI94lWq15yqp6cxmMk0L87d3JcSaAW/ONxe2YNLJpLA5ZQ49W74BVXFa8fwV5CxwgBgQw==',
+  obfuscatedClientSecret: 'U2FsdGVkX1/c2q9cQjZ5IulUczk8BiT6eeVelLR0iYz8AnrBO8IqGR92/xiOZLzAhKhFnBykn4ZKiuBDOR+qjA==',
 
   // The redirectUri is the URL that the user will be redirected to after they have authenticated with Microsoft Graph API.
   // Likewise, you would not need to change redirectUri if you are using your personal Microsoft account with OneDrive International.
